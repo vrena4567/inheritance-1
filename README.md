@@ -1,6 +1,6 @@
 # inheritance
 
-# 2. Feladat: öröklés beveztése
+# 2. Feladat: öröklés bevezetése
 Az előző feladatban látott megoldás nagyon sok kódduplikációval és egyéb fejfájással jár.
 Ennek orvoslására öröklést tudunk használni, ami az objektumorientált programozás egyik fő koncepciója.
 Az öröklés lehetővé teszi az osztályok közötti hierarchikus kapcsolatok létrehozását.
