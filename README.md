@@ -50,4 +50,7 @@ Mi van, ha módosítani szerentém a felhasználó üdvözlésének a módját?
 Ilynekor minden egyes osztályban át kéne írnom az ezért felelős kódsort. 
 De mi van, ha véletlenül egy osztályban ezt elfelejtem megtenni?
 
+**A meglévő osztályaink UML osztálydiagramja jelenleg így néz ki:**
 ![Cat Dog Cow Lion](res/Cat%20Dog%20Cow%20Lion.PNG)
+_Megjegyzés: a getter és setter metódusokat nem szokás külön megjeleníteni
+az osztálydiagramokban._
