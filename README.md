@@ -50,4 +50,4 @@ Mi van, ha módosítani szerentém a felhasználó üdvözlésének a módját?
 Ilynekor minden egyes osztályban át kéne írnom az ezért felelős kódsort. 
 De mi van, ha véletlenül egy osztályban ezt elfelejtem megtenni?
 
-![Cat Dog Cow Lion](/Cat%20Dog%20Cow%20Lion.PNG)
+![Cat Dog Cow Lion](res/Cat%20Dog%20Cow%20Lion.PNG)
