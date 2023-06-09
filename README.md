@@ -50,4 +50,4 @@ Mi van, ha módosítani szerentém a felhasználó üdvözlésének a módját?
 Ilynekor minden egyes osztályban át kéne írnom az ezért felelős kódsort. 
 De mi van, ha véletlenül egy osztályban ezt elfelejtem megtenni?
 
-![Csúnya megoldás](Cat Dog Cow Lion.PNG)
+![Cat Dog Cow Lion](Cat Dog Cow Lion.PNG)
