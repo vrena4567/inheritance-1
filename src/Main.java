@@ -6,5 +6,6 @@ public class Main {
 
         cica.sayHello();
         cica.sayHelloTo("Lili");
+
     }
 }
